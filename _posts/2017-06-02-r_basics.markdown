@@ -2,7 +2,7 @@
 title: Intro to R - The basics
 text: Get started programming with R!
 location: Douglas Library Electronic Classroom
-link: https://https://github.com/cac-staff/studyGroup/issues/1
+link: https://github.com/cac-staff/studyGroup/issues/1
 date: 2017-06-02
 startTime: '15:00'
 endTime: '16:30'

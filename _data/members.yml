@@ -1,6 +1,13 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Jeff Stafford
+  affiliation: Queen's University
+  github: jstaf
   interests:
-    - Programming
-    - Open Science
+    - Bioinformatics
+    - HPC
+    - Linux admin
+- name: Jake Kaupp
+  affiliation: Queen's University
+  github: jkaupp
+  interests:
+    - R
+    - Data science
